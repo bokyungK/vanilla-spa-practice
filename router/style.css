@@ -8,3 +8,7 @@ ul {
 li:hover {
     cursor: pointer;
 }
+
+.content-box {
+    text-align: center;
+}
